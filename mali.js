@@ -176,6 +176,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function malawi(){
+open("https://salmandascript.github.io/Malawi/Malawi.html");
+}
+
+//next page 
+function mauritania(){
+open("https://salmandascript.github.io/Mauritania/Mauritania.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
